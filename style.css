@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    overflow-x: hidden;
+}
+.card img{
+    height: 230px;
+}
+.card p{
+    text-align: justify;
+}
+.links{
+    margin-left: 5%;
+
+    
+}
